@@ -1,5 +1,10 @@
 {
   "projects": {
-    "default": "chores-1459"
-  }
+    "default": "chores-1459",
+    "chores-1459-backend": "chores-1459",
+    "chores-1459": "chores-1459"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
