@@ -9,5 +9,5 @@ import { firebaseConfig } from "./config";
 import { getAuth } from "firebase/auth";
 
 export async function getAuthenticatedAppForUser() {
-  throw new Error('not implemented');
+    throw new Error('not implemented');
 }
